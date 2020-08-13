@@ -9,6 +9,6 @@ stickman mago con cambio de armas
         -Espada
         -magias
         -dash: si atraviesa un enemigo poder salir en cualquier direccion 
-        -doble salto?
+        -doble salto??
         
         
